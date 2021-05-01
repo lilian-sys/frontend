@@ -1,4 +1,4 @@
-# frontend Secac São Carlos
+# Frontend Secac São Carlos
 
 Este é meu primeiro repositório no GitHub.
 
